@@ -21,4 +21,6 @@ loop do
   else
     result = 'Invalid Option!'
   end
+
+  system 'clear'
 end

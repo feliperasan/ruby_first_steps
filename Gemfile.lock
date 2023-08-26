@@ -1,8 +1,13 @@
 GEM
   remote: https://rubygems.org/
   specs:
+    os (1.1.4)
 
 PLATFORMS
   ruby
 
 DEPENDENCIES
+  os (~> 1.1, >= 1.1.4)
+
+BUNDLED WITH
+   2.3.7
